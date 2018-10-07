@@ -1,0 +1,7 @@
+{
+  "name": "livetest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
